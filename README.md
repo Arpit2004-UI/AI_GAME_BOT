@@ -53,5 +53,5 @@ An advanced Tic Tac Toe game powered by Artificial Intelligence using **Minimax 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ai-game-bot.git
+git clone https://github.com/Arpit2004-UI/AI_GAME_BOT/tree/main/ai_project
 cd ai-game-bot
